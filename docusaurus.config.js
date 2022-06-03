@@ -8,15 +8,15 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "pile safety",
   tagline: "Dcouments",
-  url: "/docs/login",
-  baseUrl: "/",
+  url: "https://liradb2000.github.io",
+  baseUrl: "/pileSafety/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "dabeom", // Usually your GitHub org/user name.
+  organizationName: "liradb2000", // Usually your GitHub org/user name.
   projectName: "pileSafety", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
